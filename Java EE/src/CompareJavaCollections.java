@@ -27,7 +27,7 @@ public class CompareJavaCollections {
 
     public static void main(String[] args) {
 
-        final int volume = 1000;
+        final int volume = 10000;
 
         final boolean contains = contains(volume, new ArrayList<>());
 
