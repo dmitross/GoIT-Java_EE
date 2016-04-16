@@ -2,7 +2,7 @@ package CompareCollections;
 
 import java.util.*;
 
-public class CompareJavaCollections {
+public class CompareJavaCollectionsVolume10K {
 
     /** Написать программу для сравнения эффективности коллекций:
      Программа должна сравнивать различные имплементации коллекций по эффективности выполнения следующих операций:
